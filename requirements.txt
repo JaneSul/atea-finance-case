@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+notebook
+plotly
+statsmodels
+xlrd
